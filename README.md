@@ -89,14 +89,104 @@ Current Focus:
 
 ### Semester Directory
 
-| Folder     | Description                      |
-| ---------- | -------------------------------- |
-| Semester-1 | Assignments, labs and coursework |
-| Semester-2 | Assignments, labs and coursework |
-| Semester-3 | Assignments, labs and coursework |
-| Semester-4 | Assignments, labs and coursework |
-| Semester-5 | Assignments, labs and coursework |
-| Semester-6 | Assignments, labs and coursework |
+## 🟦 Year 1 – Foundation in Computing
+
+### 📌 Semester 1
+Focus on **basic programming and computing fundamentals**.
+
+**Key Subjects:**
+- [Technology and Information Systems](/sem-1/technology-and-information-system/)
+- [Programming Technique I](/sem-1/programming-techniques-1)
+- [Digital Logic](/seme-1/digital-logic)
+- [Discrete Structure](/sem-1/discrete-structure)
+- [Integrity and Anticorruption](/sem-1/integrity-and-anticorruption)
+
+**Learning Outcome:**
+Build strong fundamentals in programming, logic, and problem-solving.
+
+---
+
+### 📌 Semester 2
+Introduction to **object-oriented programming and data analysis basics**.
+
+**Key Subjects:**
+- [System Analysis & Design](/sem-2/system-analysis-and-design)
+- [Programming Technique II](/sem-2/programming-technique-2/)
+- [Probability & Statistical Data Analysis](/sem-2/probability-and-statistical-data-analysis/)
+- [Computer Organisation Architecture](/sem-2/computer-organisation-and-architecture)
+- [Human Computer Interaction](/sem-2/human-computer-interaction)
+- [Appreciation of Ethics and Civilisation](/sem-2/appreciation-of-ethics-and-civillisation/)
+
+**Learning Outcome:**
+Understand OOP concepts, system thinking, and basic statistical analysis.
+
+---
+
+## 🟨 Year 2 – Core Computer Science Development
+
+### 📌 Semester 1
+Focus on **data structures, databases, and software engineering**.
+
+**Key Subjects:**
+- [Database](/sem-3/database/)
+- [Software Engineering](/sem-3/software-engineering/)
+- [System Development Technology](/sem-3/system-development-technology/)
+- [Data Structure and Algorithm](/sem-3/data-structure-and-algorithm/)
+- [Network Communications](/sem-3/network-communications/)
+  
+**Learning Outcome:**
+Develop structured programming skills and database design knowledge.
+
+---
+
+### 📌 Semester 2
+Strengthening **OS, OOP, and analytical thinking skills**.
+
+**Key Subjects:**
+- [Object-Oriented Programming](/sem-4/object-oriented-programming/)
+- [Data Mining](/sem-4/data-mining/)
+- [Data Analytics Programming](/sem-4/data-analytics-programming/)
+- [Operating Systems](/sem-4/operating-systems/)
+- [Technopreneurship Seminar](/sem-4/technopreneurship-seminar/)
+- [Professional Communication Skills 1](/sem-4/professional-communication-skills-1/)
+  
+**Learning Outcome:**
+Gain deeper understanding of system-level computing and software design.
+
+---
+
+## 🟩 Year 3 – Advanced Data Engineering & Industry Skills
+
+### 📌 Semester 1
+Introduction to **AI, analytics, and enterprise systems**.
+
+**Key Subjects:**
+- [Artificial Intelligence](/sem-5/artificial-intelligence/)
+- [Database Programming](/sem-5/database-programming/)
+- [Enterprise Systems Design and Modeling](/sem-5/enterprise-system-design-and-modeling/)
+- [Instrumentation and Measurement](/sem-5/instrumentation-and-measurement/)
+- [Professional Communication Skills 2](/sem-5professional-communication-skills-2/)
+- [Mandarin Language](/sem-5/mandarin-language/)
+- [Professional Skills Certificate](/sem-5/professional-skills-certificate/)
+  
+**Learning Outcome:**
+Apply AI and data analytics in real-world systems.
+
+---
+
+### 📌 Semester 2
+Focus on **big data, business intelligence, and advanced electives**.
+
+**Key Subjects:**
+- [Application Development](/sem-6/application-development/)
+- [High Performance Data Processing](/sem-6/high-performance-data-processing/)
+- [Business Intelligence](/sem-6/business-intelligence/)
+- [Special Topic in Data Engineering](/sem-6/special-topic-in-data-engineering/)
+- [Entrepreneurship & Innovation](/sem-6/entrepreneurship-and-innovation/)
+
+**Learning Outcome:**
+Build scalable systems and enterprise-level solutions.
+
 
 ---
 
