@@ -90,7 +90,7 @@ Current Focus:
 
 ## 🟦 Year 1 – Foundation in Computing
 
-### 📌 Semester 1
+### 📌 [Semester 1](https://github.com/anissj/sem-1)
 Focus on **basic programming and computing fundamentals**.
 
 **Key Subjects:**
