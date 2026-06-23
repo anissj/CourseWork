@@ -4,7 +4,6 @@
 </p>
 
 <!-- ===================== TITLE ===================== -->
-<h1 align="center">👩‍💻 Anis J</h1>
 
 <h3 align="center">
 Bachelor of Computer Science (Data Engineering)
@@ -124,7 +123,7 @@ Understand OOP concepts, system thinking, and basic statistical analysis.
 
 ## 🟨 Year 2 – Core Computer Science Development
 
-### 📌 Semester 1
+### 📌 [Semester 1](https://github.com/anissj/sem-1)
 Focus on **data structures, databases, and software engineering**.
 
 **Key Subjects:**
