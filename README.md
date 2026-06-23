@@ -214,7 +214,7 @@ Each entry includes:
 * Key Takeaways
 * Personal Reflection
 
-📂 **Folder:** `Industrial-Talks/`
+  to see more click [here](https://www.linkedin.com/in/anissafiyya/)
 
 ---
 
@@ -229,7 +229,6 @@ Participation in:
 * Academic Events
 * Leadership Programs
 
-📂 **Folder:** `Leadership-And-Activities/`
 
 ---
 
@@ -257,14 +256,7 @@ e-portfolio/
 ├── Semester-4/
 ├── Semester-5/
 ├── Semester-6/
-├── Projects/
-├── Competitions/
-├── Certifications/
-├── Industrial-Talks/
-├── Leadership-And-Activities/
-├── Gallery/
-└── assets/
-    └── banner.png
+
 ```
 
 ---
@@ -281,15 +273,15 @@ My latest resume is available in the Resume-CV folder.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anissj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/anissafiyya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anissafiyya@graduate.utm.my">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
 </a>
 
